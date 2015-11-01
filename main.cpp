@@ -8,4 +8,5 @@ int main()
     cout <<"Sum=" <<x+y <<endl;
     cout <<"x-y=" <<x-y <<endl;
     cout <<"x*y=" <<x*y <<endl;
+    cout <<"x/y=" <<x/y <<endl;
 }
